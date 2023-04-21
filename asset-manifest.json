@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Addcart/static/css/main.1c9eb639.css",
+    "main.js": "/Addcart/static/js/main.3450cc9b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Addcart/static/js/787.28cb0dcd.chunk.js",
+    "static/media/manette1.jpg": "/Addcart/static/media/manette1.279336d6cb7bff2faa9c.jpg",
+    "static/media/manette2.jpg": "/Addcart/static/media/manette2.491b32a088d178f7369f.jpg",
+    "static/media/manette3.jpg": "/Addcart/static/media/manette3.be9a321081fc1449c35e.jpg",
+    "index.html": "/Addcart/index.html",
+    "main.1c9eb639.css.map": "/Addcart/static/css/main.1c9eb639.css.map",
+    "main.3450cc9b.js.map": "/Addcart/static/js/main.3450cc9b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Addcart/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9eb639.css",
+    "static/js/main.3450cc9b.js"
+  ]
+}
